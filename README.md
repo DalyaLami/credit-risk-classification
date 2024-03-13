@@ -81,19 +81,14 @@ Structure your report by using the report template that Starter_Code.zip include
 
 4. The stages of the machine learning process I went through as part of this analysis:
 
-        1. Data Collecting and Preparing
-
-        2. Model Selection (Logistic Regression Model with the Original Data or Logistic Regression Model with Resampled Training Data)
-
-        3. Model Training
-
-        4. Model Prediction
-
-        5. Model Utilization (Evaluate the model’s performance through:
-                    - Calculate the accuracy score of the model.
-                    - Generate a confusion matrix.
-                    - Printing the classification report.)
-                    
+  1. Data Collecting and Preparing
+  2. Model Selection (Logistic Regression Model with the Original Data or Logistic Regression Model with Resampled Training Data)
+  3. Model Training
+  4.  Model Prediction
+  5.  Model Utilization - Evaluate the model’s performance through:
+        - Calculate the accuracy score of the model.
+        - Generate a confusion matrix.
+        - Printing the classification report.    
 5. The accuracy score, confusion matrix, and classification report where all used as the basis for evaluating the model's performance.
 
 
@@ -103,19 +98,19 @@ Using bulleted lists, describe the balanced accuracy scores and the precision an
 
 1. Machine Learning Model 1:
 
-  - Logistic Regression: Accuracy: 0.9520479254722232 (95.2 %)
+    - Logistic Regression: Accuracy: 0.9520479254722232 (95.2 %)
 
-  - Precision: 0 ---> 1.00 , 1 ---> 0.85 
+    - Precision: 0 ---> 1.00 , 1 ---> 0.85 
 
-  - Recall Scores: 0 ---> 0.99 , 1 ---> 0.91
+    - Recall Scores: 0 ---> 0.99 , 1 ---> 0.91
 
 2. Machine Learning Model 2:
 
-  - Logistic Regression: Accuracy: 0.9949885376126246 (99.4 %)
+    - Logistic Regression: Accuracy: 0.9949885376126246 (99.4 %)
 
-  - Precision: 0 ---> 1.00 , 1 ---> 0.99 
-
-  - Recall Scores: 0 ---> 0.99 , 1 ---> 1.00 
+    - Precision: 0 ---> 1.00 , 1 ---> 0.99 
+  
+    - Recall Scores: 0 ---> 0.99 , 1 ---> 1.00 
 
 ## Summary
 
