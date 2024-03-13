@@ -75,20 +75,20 @@ Structure your report by using the report template that Starter_Code.zip include
 
 1. The analysis's goal is to develop and assess a loan risk-based model. Using a peer-to-peer lending services company's historical lending activity dataset, I developed a model that can determine a borrower's creditworthiness based on loan_status, the accuracy for healthy and high risk loans.
 
-2. The following were the contents of the dataset: : loan size, interest rate, borrower income, debt to income, number of accounts, derogatory marks, total debt and loan status.
+2. The following were the contents of the dataset : loan size, interest rate, borrower income, debt to income, number of accounts, derogatory marks, total debt and loan status.
 
 3. The loan status, represented by variable y, is categorized as either 0 or 1,  where a loan is considered healthy if its value is 0 and it is considered high-risk of default if its value is 1. While everything else in the dataset falls under variable x.
 
 4. The stages of the machine learning process I went through as part of this analysis:
 
-  1. Data Collecting and Preparing
-  2. Model Selection (Logistic Regression Model with the Original Data or Logistic Regression Model with Resampled Training Data)
-  3. Model Training
-  4.  Model Prediction
-  5.  Model Utilization - Evaluate the model’s performance through:
-        - Calculate the accuracy score of the model.
-        - Generate a confusion matrix.
-        - Printing the classification report.    
+      1. Data Collecting and Preparing
+      2. Model Selection (Logistic Regression Model with the Original Data or Logistic Regression Model with Resampled Training Data)
+      3. Model Training
+      4.  Model Prediction
+      5.  Model Utilization - Evaluate the model’s performance through:
+            - Calculate the accuracy score of the model.
+            - Generate a confusion matrix.
+            - Printing the classification report.    
 5. The accuracy score, confusion matrix, and classification report where all used as the basis for evaluating the model's performance.
 
 
